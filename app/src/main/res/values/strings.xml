@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Its Just Drinks</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_login">Register/Login</string>
+    <string name="registerHeader">Register</string>
+    <string name="loginHeader">Login</string>
+    <string name="register_google">Register using Google</string>
+    <string name="register_facebook">Register using Facebook</string>
+    <string name="register_twitter">Register using Twitter</string>
+    <string name="app_description">dfsygfkjnghjbvkjnvhjbjkvndgfjdhfhjkvhvjchvkjhkjvhhgckjhijsaudhgfvnygarehocjbefdknva kjxdfcgbhjkvctrxetcbhyutrewztfcgvybhuijnhyutrvcewzrxtcbyubtrewrxytcbyugtrfdriuhg67ftiug87ohscijdfv8uhfgkvjmiouv7fhgvijuihvoifj</string>
+    <string name="login_google">Login using Google</string>
+    <string name="login_facebook">Login using Facebook</string>
+    <string name="login_twitter">Login using Twitter</string>
+</resources>
